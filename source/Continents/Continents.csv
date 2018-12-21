@@ -1,0 +1,8 @@
+"id","name","twoLetterAcronym","areaInSquareKilometers","highestPointInMeters","highestPointName","lowestPointInMeters","lowestPointName"
+1,"Africa","AF",30370000,5895,"Mount Kilimanjaro",-155,"Lake Assal"
+2,"Asia","AS",43820000,8848,"Mount Everest",-427,"Dead Sea"
+3,"Europe","EU",10180000,5642,"Mount Elbrus",-28,"Caspian Sea"
+4,"North America","NA",24490000,6198,"Denali",-86,"Death Valley"
+5,"South America","SA",17840000,6960,"Aconcagua",-105,"Laguna del Carbon"
+6,"Antarctica","AN",13720000,4892,"Vinson Massif",-50,"Deep Lake"
+7,"Oceania","OC",9008500,4884,"Puncak Jaya",-15,"Lake Eyre"

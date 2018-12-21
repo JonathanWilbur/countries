@@ -1,0 +1,46 @@
+"code","parent","name","obsolete"
+"001","","World",0
+"002","001","Africa",0
+"005","419","South America",0
+"009","001","Oceania",0
+"010","001","Antarctica",0
+"011","202","Western Africa",0
+"013","419","Central America",0
+"014","202","Eastern Africa",0
+"015","002","Northern Africa",0
+"017","202","Middle Africa",0
+"018","202","Southern Africa",0
+"019","001","Americas",0
+"021","019","Northern America",0
+"029","419","Caribbean",0
+"030","142","Eastern Asia",0
+"034","142","Southern Asia",0
+"035","142","South-eastern Asia",0
+"039","150","Southern Europe",0
+"053","009","Australia and New Zealand",0
+"054","009","Melanesia",0
+"057","009","Micronesia",0
+"061","009","Polynesia",0
+"062","","South-Central Asia",1
+"142","001","Asia",0
+"143","142","Central Asia",0
+"145","142","Western Asia",0
+"150","001","Europe",0
+"151","150","Eastern Europe",0
+"154","150","Northern Europe",0
+"155","150","Western Europe",0
+"200","","Czechoslovakia",1
+"202","002","Sub-Saharan Africa",0
+"230","","Ethiopia",1
+"278","","German Democractic Republic",1
+"280","","Federal Republic of Germany",1
+"419","019","Latin America and the Caribbean",0
+"530","","Netherlands Antilles",1
+"532","","Netherlands Antilles",1
+"582","","Trust Territory of the Pacific Islands",1
+"720","","Democratic Yemen",1
+"810","","Union of Socialist Soviet Republics",1
+"830","154","Channel Islands",0
+"886","","Yemen",1
+"890","","Socialist Federal Republic of Yugoslavia",1
+"891","","Serbia and Montenegro",1

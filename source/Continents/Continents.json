@@ -1,0 +1,7 @@
+[{"id":1, "name":"Africa", "twoLetterAcronym":"AF", "areaInSquareKilometers":30370000, "highestPointInMeters":5895, "highestPointName":"Mount Kilimanjaro", "lowestPointInMeters":-155, "lowestPointName":"Lake Assal"},
+ {"id":2, "name":"Asia", "twoLetterAcronym":"AS", "areaInSquareKilometers":43820000, "highestPointInMeters":8848, "highestPointName":"Mount Everest", "lowestPointInMeters":-427, "lowestPointName":"Dead Sea"},
+ {"id":3, "name":"Europe", "twoLetterAcronym":"EU", "areaInSquareKilometers":10180000, "highestPointInMeters":5642, "highestPointName":"Mount Elbrus", "lowestPointInMeters":-28, "lowestPointName":"Caspian Sea"},
+ {"id":4, "name":"North America", "twoLetterAcronym":"NA", "areaInSquareKilometers":24490000, "highestPointInMeters":6198, "highestPointName":"Denali", "lowestPointInMeters":-86, "lowestPointName":"Death Valley"},
+ {"id":5, "name":"South America", "twoLetterAcronym":"SA", "areaInSquareKilometers":17840000, "highestPointInMeters":6960, "highestPointName":"Aconcagua", "lowestPointInMeters":-105, "lowestPointName":"Laguna del Carbon"},
+ {"id":6, "name":"Antarctica", "twoLetterAcronym":"AN", "areaInSquareKilometers":13720000, "highestPointInMeters":4892, "highestPointName":"Vinson Massif", "lowestPointInMeters":-50, "lowestPointName":"Deep Lake"},
+ {"id":7, "name":"Oceania", "twoLetterAcronym":"OC", "areaInSquareKilometers":9008500, "highestPointInMeters":4884, "highestPointName":"Puncak Jaya", "lowestPointInMeters":-15, "lowestPointName":"Lake Eyre"}]

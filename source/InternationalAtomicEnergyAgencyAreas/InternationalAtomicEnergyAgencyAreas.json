@@ -1,0 +1,8 @@
+[{"id":1, "name":"North America", "numberOfIAEARepresentatives":0},
+ {"id":2, "name":"Latin America", "numberOfIAEARepresentatives":5},
+ {"id":3, "name":"Western Europe", "numberOfIAEARepresentatives":4},
+ {"id":4, "name":"Eastern Europe", "numberOfIAEARepresentatives":3},
+ {"id":5, "name":"Africa", "numberOfIAEARepresentatives":4},
+ {"id":6, "name":"Middle East and South Asia", "numberOfIAEARepresentatives":2},
+ {"id":7, "name":"South East Asia and the Pacific", "numberOfIAEARepresentatives":1},
+ {"id":8, "name":"Far East", "numberOfIAEARepresentatives":1}]
